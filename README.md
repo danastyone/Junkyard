@@ -123,16 +123,6 @@ The Cable Modem Hacking Repo.
 ###Contribute:
 - Send a pull request of a Cable Modem firmware image that isn't already on the list.
 
-###Donations:
-- 17vorVqtJqbDaN6ZC6UGE7UwGC4QVmDNMh
-
-
-
-
-
-#Junkyard
-Cable modem firmware dump
-
 Update:
 ------
 - This has been updated with more files. I will try and keep this updated.
